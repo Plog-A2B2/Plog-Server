@@ -69,6 +69,64 @@
 <img width="1435" alt="Image" src="https://github.com/user-attachments/assets/986a663c-f404-4f83-b268-7766a6b30071" />
 <img width="1436" alt="Image" src="https://github.com/user-attachments/assets/0d3c30f3-c234-483a-9fb1-b59484d29c28" />
 
+## 🌿 Function Description
+<table>
+  <tr>
+    <td align="center" width="280" height="400">
+      <img src="https://github.com/user-attachments/assets/4ba267af-74d3-43a4-a096-45014cd86e74" width="200"/><br/>
+      <small>홈화면에서 플로깅 옵션 설정 및<br/>실시간 플로거 현황 확인</small>
+    </td>
+    <td align="center" width="280" height="400">
+      <img src="https://github.com/user-attachments/assets/cde94b08-17bf-4e22-a8e7-d1a0c125d689" width="200"/><br/>
+      <small>주요 쓰레기 개수 기록 및 플로거가 다닌<br/>길을 실시간으로 추적해 지도에 표시</small>
+    </td>
+    <td align="center" width="280" height="400">
+      <img src="https://github.com/user-attachments/assets/d4e3b672-ce0a-4d4a-bce4-4292d56e8a3a" width="200"/><br/>
+      <small>워치에서 쓰레기 개수 입력 가능</small>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center" width="280" height="400">
+      <img src="https://github.com/user-attachments/assets/0be1f3a3-dd1b-4e71-a33a-de5c7834e069" width="200"/><br/>
+      <small>플로깅 종료 후 쓰레기 개수,<br> 시간, 거리, 경로 확인</small>
+    </td>
+    <td align="center" width="280" height="400">
+      <img src="https://github.com/user-attachments/assets/cd57e8b0-8a80-44eb-b629-7b5ecde25835" width="200"/><br/>
+      <small>분리수거 및 자원순환보증금 제도 안내<br/>지도로 수거 위치 확인 가능</small>
+    </td>
+    <td align="center" width="280" height="400">
+      <img src="https://github.com/user-attachments/assets/ce44cc23-2e41-4573-886e-ebfaa5b19d4c" width="200"/><br/>
+      <!-- 긴 문장은 두 번 중첩해서 더 작게 -->
+      <small><small>푸시알림 설정, 게시글 확인,<br/>전체 플로깅 기록 및 코인개수 확인</small></small>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center" width="280" height="400">
+      <img src="https://github.com/user-attachments/assets/2a57922e-45e1-4298-adca-90d5707f6eef" width="200"/><br/>
+      <small>게시글 작성으로 유저모집,<br/>플로깅 게시글 참여 &amp; 찜 가능</small>
+    </td>
+    <td align="center" width="280" height="400">
+      <img src="https://github.com/user-attachments/assets/bcdc8414-b43a-4ac4-97c6-b693492ca84d" width="200"/><br/>
+      <small>미션 수행으로 코인획득, 배지구매 가능</small>
+    </td>
+    <td align="center" width="280" height="400">
+      <img src="https://github.com/user-attachments/assets/f596f5ca-a269-413b-89e1-5bad9f4eb571" width="200"/><br/>
+      <small>거리 X 쓰레기 개수로 순위 측정</small>
+    </td>
+  </tr>
+</table>
+
+
 [결선 발표 영상](https://www.youtube.com/watch?v=JZi7KuhnA9E)
 
 # 🩶Thank you for your interest!🩶
